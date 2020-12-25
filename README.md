@@ -1,44 +1,46 @@
 # RKR-DataScientist
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
 
-<h1>Hi Traveller, I am <a href="https://ashutoshhathidara.com/">Ravi Kumar Rahul (RKR)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/ashutosh1919/ashutosh1919/blob/master/my_image.jpeg" width="230" />
+<h1>Hi Traveller, I am <a href="#">Ravi Kumar Rahul (RKR)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<img align='right' src="https://github.com/RKR555/RKR555/blob/main/My-Image.jpg" width="230" />
 
 <a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/youtube-logo.png" width="40" /></a>
-<a href="https://www.patreon.com/ashutosh1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/patreon_logo.png" width="65" /></a>
-<a href="https://github.com/ashutosh1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/laymanbrother.19/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:ashutoshhathidara98@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
+<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/youtube-logo.png" width="40" /></a>
+<a href="https://www.patreon.com/rkrdatascientist"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/patreon_logo.png" width="65" /></a>
+<a href="https://github.com/RKR555"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
+<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
+<a href="mailto:rkr.datascientist@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
+<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
+<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
 
 <h3>What I do? 👨‍💻</h3>
 <details>
 <summary>Data Scientist 📊</summary>
 <ul>
-  <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
-  <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
-  <li><a href="https://github.com/ashutosh1919/Stock-Prediction-using-LSTM">Stock-Prediction-using-LSTM</a></li>
-  <li><a href="https://github.com/ashutosh1919/bert_classifier">bert-classifier</a></li>
-  <li><a href="https://github.com/ashutosh1919/docker-ml-tutorial">docker-ml-tutorial</li>
-  <li><a href="https://github.com/ashutosh1919/FaceInterpolation">face-interpolation</a></li>
-  <li><a href="https://github.com/ashutosh1919/NQA_tf2">natural-question-answer-ai</a></li>
+  <li><a href="#https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
+  <li><a href="#https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
+  <li><a href="#https://github.com/ashutosh1919/Stock-Prediction-using-LSTM">Stock-Prediction-using-LSTM</a></li>
+  <li><a href="#https://github.com/ashutosh1919/bert_classifier">bert-classifier</a></li>
+  <li><a href="#https://github.com/ashutosh1919/docker-ml-tutorial">docker-ml-tutorial</li>
+  <li><a href="#https://github.com/ashutosh1919/FaceInterpolation">face-interpolation</a></li>
+  <li><a href="#https://github.com/ashutosh1919/NQA_tf2">natural-question-answer-ai</a></li>
   <li>Many more on and out of Github...</li>
 </ul>
 </details>
 <details>
 <summary>Full Stack Developer 🍥</summary>
+  <!--
   <ul>
-    <li><a href="https://github.com/ashutosh1919/masterPortfolio">masterPortfolio</a></li>
-    <li><a href="https://github.com/ashutosh1919/truvisory">truvisory</a></li>
-    <li><a href="https://github.com/ashutosh1919/neurostack">neurostack</a></li>
-    <li><a href="https://github.com/ashutosh1919/Full_Stack_Web_Development_Course">Full-Stack-Web-Development-Course</a></li>
+    <li><a href="#https://github.com/ashutosh1919/masterPortfolio">masterPortfolio</a></li>
+    <li><a href="#https://github.com/ashutosh1919/truvisory">truvisory</a></li>
+    <li><a href="#https://github.com/ashutosh1919/neurostack">neurostack</a></li>
+    <li><a href="#https://github.com/ashutosh1919/Full_Stack_Web_Development_Course">Full-Stack-Web-Development-Course</a></li>
     <li>Many more on and out of Github...</li>
   </ul>
+-->
 </details>
 <details>
-  <summary>Associate Artificial Intelligence Engineer at <a href="https://www.legatohealth.com/">Legato</a> 🤖</summary>
+  <summary>Associate Artificial Intelligence Engineer </a> 🤖</summary>
   <ul>
     <li>Working on core AI products to simplify healthcare system at scale.</li>
     <li>Applying AI on different large problems in the field of Oncology, Process Improvement and Rapid Engineeing.</li>
@@ -46,17 +48,15 @@
 </details>
 <details>
 <summary>Community Influencer 👁️‍🗨️</summary>
-<ul>
-  <li><a href="https://github.com/ashutosh1919/truvisory">truvisory</a></li>
-  <li>Join Me on LinkedIn to see my daily posts.</li>
-</ul>
 </details>
 <details>
 <summary>Opensource Contributor 📝</summary>
+  <!--
   <ul>
     <li>You can get detailed information of my contributions <a href="https://ashutoshhathidara.com/#/opensource">here</a>.</li>
     <li>You can also scroll down and get the information on my <a href="https://github.com/ashutosh1919">github profile</a>.</li>
   </ul>
+-->
 </details>
 
 <h3>The Questions You May Have 😕</h3>
@@ -89,7 +89,7 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
 <details>
 <summary>What do you do other than building AI systems? 💁‍♂️</summary>
   <ul>
-    <li>I write blogs about powerful lessons in personal changes. You can visit my blog site at <a href="https://ashutoshhathidara.wordpress.com">ashutoshhathidara.wordpress.com</a>.</li>
+    <li>I write blogs about powerful lessons in personal changes. You can visit my blog site at <a href="#">rkrdatascientist.wordpress.com</a>.</li>
     <li>I am a public speaker and a member of AMP (Association of Muslim Profession). We work for educating students to deal with very basic but important problems which eventually build their character.</li>
     <li>I design, build and deploy beautiful websites. Whenever I am free, I am used to create designs in Figma.</li>
   </ul>
@@ -97,10 +97,10 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
 
 <h3>What if you like my work? 🤩</h3>
 <ul>
-  <li>You can donate 💰 me 1 USD on my <a href="https://www.patreon.com/ashutosh1919">patreon profile</a>.</li>
-  <li>Subscribe to my <a href="https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ">YouTube Channel</a>.</li>
+  <li>You can donate 💰 me 1 USD on my <a href="https://www.patreon.com/rkrdatascientist">patreon profile</a>.</li>
+  <li>Subscribe to my <a href="#">YouTube Channel</a>.</li>
   <li>You can Star ⭐ the repositories you like.</li>
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
-[![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true&count_private=true)](https://github.com/ashutosh1919/github-readme-stats)
+[![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=RKR555&show_icons=true&count_private=true)](https://github.com/ashutosh1919/github-readme-stats)

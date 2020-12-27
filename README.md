@@ -4,7 +4,7 @@
 <h1>Hi Traveller, I am <a href="#">Ravi Kumar Rahul (RKR)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/main/My-Image.jpg" width="230" />
 
-<a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/linkedin.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/rkrdatascientist"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/main/linkedin_banner.png" width="40" /></a>
 <a href="#"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/tree/main/logos/youtube-logo.png" width="40" /></a>
 <a href="https://www.patreon.com/rkrdatascientist"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/tree/main/logos/patreon_logo.png" width="65" /></a>
 <a href="https://github.com/RKR-DataScientist"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/tree/main/logos/github-logo.png" width="40" /></a>

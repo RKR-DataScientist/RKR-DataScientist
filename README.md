@@ -1,17 +1,17 @@
 # RKR-DataScientist
-<img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
+<img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/linkedin_banner.png" />
 
 <h1>Hi Traveller, I am <a href="#">Ravi Kumar Rahul (RKR)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/RKR555/RKR555/blob/main/My-Image.jpg" width="230" />
+<img align='right' src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/main/My-Image.jpg" width="230" />
 
-<a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/youtube-logo.png" width="40" /></a>
-<a href="https://www.patreon.com/rkrdatascientist"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/patreon_logo.png" width="65" /></a>
-<a href="https://github.com/RKR555"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:rkr.datascientist@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
-<a href="#"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/linkedin.png" width="40" /></a>
+<a href="#"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/youtube-logo.png" width="40" /></a>
+<a href="https://www.patreon.com/rkrdatascientist"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/patreon_logo.png" width="65" /></a>
+<a href="https://github.com/RKR555"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/github-logo.png" width="40" /></a>
+<a href="#"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/facebook.png" width="40" /></a>
+<a href="mailto:rkr.datascientist@gmail.com"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/google-plus.png" width="40" /></a>
+<a href="#"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/twitter.png" width="40" /></a>
+<a href="#"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/instagram.png" width="40" /></a>
 
 <h3>What I do? 👨‍💻</h3>
 <details>

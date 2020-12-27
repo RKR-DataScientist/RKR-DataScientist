@@ -103,4 +103,4 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
-[![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=RKR555&show_icons=true&count_private=true)](https://github.com/ashutosh1919/github-readme-stats)
+[![Ravi Rahul's Github Stats](https://github-readme-stats.vercel.app/api?username=RKR-DataScientist&show_icons=true&count_private=true)](https://github.com/RKR-DataScientist/github-readme-stats)

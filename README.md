@@ -5,13 +5,13 @@
 <img align='right' src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/main/My-Image.jpg" width="230" />
 
 <a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="#"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/youtube-logo.png" width="40" /></a>
-<a href="https://www.patreon.com/rkrdatascientist"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/patreon_logo.png" width="65" /></a>
-<a href="https://github.com/RKR555"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="#"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:rkr.datascientist@gmail.com"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="#"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/twitter.png" width="40" /></a>
-<a href="#"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/blob/master/logos/instagram.png" width="40" /></a>
+<a href="#"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/tree/main/logos/youtube-logo.png" width="40" /></a>
+<a href="https://www.patreon.com/rkrdatascientist"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/tree/main/logos/patreon_logo.png" width="65" /></a>
+<a href="https://github.com/RKR555"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/tree/main/logos/github-logo.png" width="40" /></a>
+<a href="#"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/tree/main/logos/facebook.png" width="40" /></a>
+<a href="mailto:rkr.datascientist@gmail.com"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/tree/main/logos/google-plus.png" width="40" /></a>
+<a href="#"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/tree/main/logos/twitter.png" width="40" /></a>
+<a href="#"><img src="https://github.com/RKR-DataScientist/RKR-DataScientist/tree/main/logos/instagram.png" width="40" /></a>
 
 <h3>What I do? 👨‍💻</h3>
 <details>

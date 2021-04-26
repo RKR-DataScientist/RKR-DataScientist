@@ -131,7 +131,5 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RKR-DataScientist&label=Profile%20views&color=0e75b6&style=flat-square" alt="Ravi Kumar Rahul" /> </p>
 
 
-
-
-<p>&nbsp;[![Ravi Rahul's Github Stats](https://github-readme-stats.vercel.app/api?username=RKR-DataScientist&show_icons=true&count_private=true)](https://github.com/RKR-DataScientist/github-readme-stats)
+[![Ravi Rahul's Github Stats](https://github-readme-stats.vercel.app/api?username=RKR-DataScientist&show_icons=true&count_private=true)](https://github.com/RKR-DataScientist/github-readme-stats)
  </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RKR-DataScientist&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="Ravi Kumar Rahul" /></p>

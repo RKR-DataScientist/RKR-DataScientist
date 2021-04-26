@@ -102,9 +102,6 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
   <li>You can Star ⭐ the repositories you like.</li>
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RKR-DataScientist&label=Profile%20views&color=0e75b6&style=flat-square" alt="Ravi Kumar Rahul" /> </p>
-
-[![Ravi Rahul's Github Stats](https://github-readme-stats.vercel.app/api?username=RKR-DataScientist&show_icons=true&count_private=true)](https://github.com/RKR-DataScientist/github-readme-stats)
 
 <h2></h2>
 <h3 align="left"><b>Languages and Tools:</b></h3>
@@ -131,5 +128,10 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
 <a href="https://leetcode.com/avisikta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/avisikta/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/idofavisikta19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/idofavisikta19/" height="30" width="40" /></a>
 </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=avisikta-majumdar&show_icons=true&locale=en" alt="avisikta-majumdar" />
- </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avisikta-majumdar&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="avisikta-majumdar" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RKR-DataScientist&label=Profile%20views&color=0e75b6&style=flat-square" alt="Ravi Kumar Rahul" /> </p>
+
+[![Ravi Rahul's Github Stats](https://github-readme-stats.vercel.app/api?username=RKR-DataScientist&show_icons=true&count_private=true)](https://github.com/RKR-DataScientist/github-readme-stats)
+
+
+<p>&nbsp;
+ </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RKR-DataScientist&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="Ravi Kumar Rahul" /></p>
